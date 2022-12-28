@@ -1,0 +1,33 @@
+#$ TITLE: Just Fly Crew custom logo and LED settings
+#$ FIRMWARE_VERSION: 4.2
+#$ FIRMWARE_VERSION: 4.3
+#$ FIRMWARE_VERSION: 4.4
+#$ CATEGORY: OTHER
+#$ STATUS: COMMUNITY
+#$ KEYWORDS: pilot, logo, name, led
+#$ AUTHOR: calman
+#$ DESCRIPTION: Just Fly Crew custom logo before pilot name, and specific LED colors for VTX channels
+
+#$ OPTION BEGIN (UNCHECKED): Custom logo and pilot name
+set name = @= calman
+set display_name = ,'
+#$ OPTION END 
+
+#$ OPTION BEGIN (UNCHECKED): LED settings ofr VTX channels
+# led
+led 0 0,15::CB:1
+led 1 1,15::CB:1
+led 2 2,15::CB:1
+led 3 3,15::CB:1
+led 4 4,15::CB:1
+led 5 5,15::CB:1
+led 6 6,15::CB:1
+led 7 7,15::CB:1
+led 8 8,15::CB:1
+led 9 9,15::CB:1
+led 10 10,15::CB:1
+# color
+color 1 0,0,255
+color 3 120,0,255
+color 13 60,0,255
+#$ OPTION END 
