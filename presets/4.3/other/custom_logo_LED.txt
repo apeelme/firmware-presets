@@ -7,10 +7,10 @@
 #$ KEYWORDS: pilot, logo, name, led
 #$ AUTHOR: calman
 #$ DESCRIPTION: Just Fly Crew custom logo before pilot name, and specific LED colors for VTX channels
-#$ WARNING: Change the pilot name!!!
 #$ DISCUSSION: https://github.com/apeelme/firmware-presets/tree/JFC
 
 #$ OPTION BEGIN (UNCHECKED): Custom logo
+#$ WARNING: Change the pilot name!!!
 set name = @= calman
 set display_name = ,'
 #$ OPTION END 
