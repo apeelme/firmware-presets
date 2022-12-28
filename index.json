@@ -153,8 +153,8 @@
   "presets": [
     {
       "fullPath": "presets/4.3/other/custom_logo_LED.txt",
-      "hash": "082aff27e484fedd249206a012b4d027c064d3df351e6886cc9f4759f0f50788",
-      "title": "Just Fly Crew custom logo and LED settings",
+      "hash": "be185ed9ed363c38efb2a5b51a70b10160c1fcc79a3b018980422eadd835b9ab",
+      "title": "JustFlyCrew custom logo and LED settings",
       "firmware_version": [
         "4.2",
         "4.3",
